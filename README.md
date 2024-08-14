@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sabelo, an <a href="https://linkedin.com/in/sabelo-ndala">IT Professional</a></h1>
+<h1>Hi, I'm Sabelo, an <a href="[https://linkedin.com/in/sabelo-ndala](https://www.linkedin.com/in/sabelo-ndala-a336a7310/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 

@@ -12,16 +12,16 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sabelo-ndala-b62826325 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/sabelo-ndala-a336a7310
 
 
 
 
-[linkedin]:https://www.linkedin.com/in/sabelo-ndala-b62826325
+[linkedin]:https://www.linkedin.com/in/
 
 
 

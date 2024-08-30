@@ -16,4 +16,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/sabelo-ndala-b62826325/
+[linkedin]: [https://linkedin.com/in/sabelo-nd](https://www.linkedin.com/in/sabelo-ndala-b62826325/)

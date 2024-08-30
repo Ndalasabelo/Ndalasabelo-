@@ -16,7 +16,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/sabelo-ndala-a336a7310
+[linkedin]: https://linkedin.com/in/sabelo-ndala-b62826325
 
 
 
